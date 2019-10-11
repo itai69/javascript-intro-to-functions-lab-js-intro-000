@@ -17,9 +17,9 @@ console.log(string.toLowerCase())
 }
 
 function sayHiToGrandma(string) {
-	if (string == string.toLowerCase()) 
+	if (string == string.toLowerCase())
    return  'i can\'t hear you!'
-  if (string == string.toUpperCase()) 
+  if (string == string.toUpperCase())
     return  'YES INDEED!'
 debugger;
 	if (string === "I love you, Grandma.")
